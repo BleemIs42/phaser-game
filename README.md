@@ -1,5 +1,4 @@
-# Vue-webpack
-A project template for vue.js multiple pages bulid with webpack.
+# Phaser-game
 
 ## Node dev
 ```shell
